@@ -1,0 +1,56 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "luizdores/android_device_motorola_ocean",
+        "target_path":  "device/motorola/ocean",
+        "revision":     "quartz"
+    },
+    {
+        "remote":       "github",
+        "repository":   "luizdores/android_device_motorola_sdm632-common",
+        "target_path":  "device/motorola/sdm632-common",
+        "revision":     "quartz"
+    },
+    {
+        "remote":       "github",
+        "repository":   "luizdores/android_kernel_motorola_sdm632",
+        "target_path":  "kernel/motorola/sdm632",
+        "revision":     "quartz"
+    },
+    {
+        "remote":       "github",
+        "repository":   "luizdores/vendor_motorola",
+        "target_path":  "vendor/motorola",
+        "revision":     "quartz"
+    },
+    {
+        "remote":       "blobs",
+        "repository":   "proprietary_vendor_qcom_common",
+        "target_path":  "vendor/qcom/common",
+        "revision":     "quartz"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_audio",
+        "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
+        "revision":     "quartz-89xx"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "quartz-89xx"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "quartz-89xx"
+    },
+    {
+        "remote":       "aospa",
+        "repository":   "AOSPA/android_vendor_qcom_opensource_commonsys-intf_display",
+        "target_path":  "vendor/qcom/opensource/commonsys-intf/display",
+        "revision":     "quartz"
+    }
+]
